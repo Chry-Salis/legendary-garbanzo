@@ -64,7 +64,7 @@ const about = () => {
                 to creating designs that tell stories and bring about positive change in the world.
               </p>
               <p className="font-light text-2xl lg:text-xl">
-                Whether I'm working on a website, mobile app, or other digital product, I bring my commitment to design
+                Whether I am working on a website, mobile app, or other digital product, I bring my commitment to design
                 excellence and user-centered thinking to every project I work on. I look forward to the opportunity to bring my
                 skills and passion to your next project.
               </p>
