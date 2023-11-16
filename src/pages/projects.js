@@ -80,7 +80,7 @@ and SEO-friendly rendering, and Tailwind CSS for custom styling."
 link="/"
 image="img"
 type="Featured Project"
-github="/"
+github="https://github.com/Chry-Salis/legendary-garbanzo"
              />
           </div>
 
